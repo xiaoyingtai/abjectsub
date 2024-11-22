@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cava Supernova &#8211; The University of Abject Submission</title>
+	<atom:link href="/author/cavasupernova/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>BDSM, books and missing links by Xiao Yingtai</description>
+	<lastBuildDate>Sat, 21 Mar 2015 21:06:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Guest Post: Is Racism Sexy?</title>
+		<link>/guest-post-is-racism-sexy/</link>
+					<comments>/guest-post-is-racism-sexy/#comments</comments>
+		
+		<dc:creator><![CDATA[Cava Supernova]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2015 12:58:32 +0000</pubDate>
+				<category><![CDATA[What makes us tick?]]></category>
+		<category><![CDATA[BDSM]]></category>
+		<category><![CDATA[Since feeling is first]]></category>
+		<guid isPermaLink="false">/?p=6022</guid>
+
+					<description><![CDATA[Today my guest blogger is the outrageous and huggable Cava Supernova! She&#8217;s here to tell us about her younger self being being Dropped in the Deep End. “Call me your n****r. Go on, it gets me going. I want you to call me your n****r.” “Oh my god, no. I could never do that.” “It’s &#8230; <a href="/guest-post-is-racism-sexy/" class="more-link">Continue reading <span class="screen-reader-text">Guest Post: Is Racism Sexy?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/guest-post-is-racism-sexy/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

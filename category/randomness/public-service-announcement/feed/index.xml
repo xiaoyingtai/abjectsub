@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Public Service Announcement &#8211; The University of Abject Submission</title>
+	<atom:link href="/category/randomness/public-service-announcement/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>BDSM, books and missing links by Xiao Yingtai</description>
+	<lastBuildDate>Fri, 26 Sep 2014 03:23:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Help Leather Granddaddy Patrick&#160;Califia!</title>
+		<link>/help-leather-granddaddy-patrickcalifia/</link>
+		
+		<dc:creator><![CDATA[Xiao Yingtai]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2014 02:13:51 +0000</pubDate>
+				<category><![CDATA[Public Service Announcement]]></category>
+		<guid isPermaLink="false">/?p=5037</guid>
+
+					<description><![CDATA[I am under Strong Encouragement to make an appeal for Patrick Califia&#8217;s medical needs. My response: &#8220;You mean I can do that? YES PLEASE LET ME OBEY.&#8221; As you probably know, he&#8217;s a trans writer-activist-therapist and a great-granddaddy of our community. About a week ago he finally gave his partner permission to explain that he &#8230; <a href="/help-leather-granddaddy-patrickcalifia/" class="more-link">Continue reading <span class="screen-reader-text">Help Leather Granddaddy Patrick&#160;Califia!</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What Can You Do About the Heartbleed Bug?</title>
+		<link>/heartbleed-security-bug-action-alert/</link>
+		
+		<dc:creator><![CDATA[Xiao Yingtai]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2014 23:17:18 +0000</pubDate>
+				<category><![CDATA[Public Service Announcement]]></category>
+		<category><![CDATA[Off‑topic]]></category>
+		<guid isPermaLink="false">http://abjectsub.wordpress.com/?p=1943</guid>
+
+					<description><![CDATA[A security bug potentially affecting two-thirds of the Internet has just been reported. This one is serious &#8211; it will be headline news tomorrow. You can find out which websites are vulnerable by entering their addresses at Heartbleed Test. Chrome users can install Chromebleed to be notified immediately when they visit a vulnerable website. Update 5, Chromebleed review: I&#8217;ve stopped &#8230; <a href="/heartbleed-security-bug-action-alert/" class="more-link">Continue reading <span class="screen-reader-text">What Can You Do About the Heartbleed Bug?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

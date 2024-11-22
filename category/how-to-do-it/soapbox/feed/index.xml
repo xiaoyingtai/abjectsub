@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Soapbox &#8211; The University of Abject Submission</title>
+	<atom:link href="/category/how-to-do-it/soapbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>BDSM, books and missing links by Xiao Yingtai</description>
+	<lastBuildDate>Mon, 02 Feb 2015 03:47:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Against Sapiosexual Pride</title>
+		<link>/against-sapiosexual-pride/</link>
+					<comments>/against-sapiosexual-pride/#comments</comments>
+		
+		<dc:creator><![CDATA[Xiao Yingtai]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2015 05:01:13 +0000</pubDate>
+				<category><![CDATA[Soapbox]]></category>
+		<category><![CDATA[Clichés]]></category>
+		<category><![CDATA[Dating & mingling]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[TMI]]></category>
+		<guid isPermaLink="false">/?p=5860</guid>
+
+					<description><![CDATA[When I started out on FetLife, I encountered a lot of Worrying Things. Like the hordes of people declaring themselves to be sapiosexuals. My prejudice against sapiosexuality may surprise you. After all, I threw myself at the smartest guy I ever met. He enjoyed using my mind as much as he did my body. Our &#8230; <a href="/against-sapiosexual-pride/" class="more-link">Continue reading <span class="screen-reader-text">Against Sapiosexual Pride</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/against-sapiosexual-pride/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>I Wish I&#8217;d Said That</title>
+		<link>/i-wish-i-had-said-that/</link>
+					<comments>/i-wish-i-had-said-that/#comments</comments>
+		
+		<dc:creator><![CDATA[Xiao Yingtai]]></dc:creator>
+		<pubDate>Sun, 27 Jul 2014 04:03:16 +0000</pubDate>
+				<category><![CDATA[Soapbox]]></category>
+		<category><![CDATA[Can I make you laugh?]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Dating & mingling]]></category>
+		<category><![CDATA[Gender]]></category>
+		<guid isPermaLink="false">/?p=4307</guid>
+
+					<description><![CDATA[I usually update every 5 days. But my chronic aches have been bad. I&#8217;m officially out of pre-written posts. Will I manage another one by 1 August? Wish me luck! The French have a word for it: l&#8217;esprit d&#8217;escalier. Literally, staircase wit. The perfect retort that only occurs to you after it&#8217;s too late. But &#8230; <a href="/i-wish-i-had-said-that/" class="more-link">Continue reading <span class="screen-reader-text">I Wish I&#8217;d Said That</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/i-wish-i-had-said-that/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cowhideman &#8211; The University of Abject Submission</title>
+	<atom:link href="/author/cowhideman/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>BDSM, books and missing links by Xiao Yingtai</description>
+	<lastBuildDate>Sun, 24 Aug 2014 05:48:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>When a Dom Drops Hard: Guest Post by Cowhideman</title>
+		<link>/when-a-dom-drops-hard/</link>
+					<comments>/when-a-dom-drops-hard/#comments</comments>
+		
+		<dc:creator><![CDATA[Cowhideman]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2014 04:05:45 +0000</pubDate>
+				<category><![CDATA[Safety & Ethics]]></category>
+		<category><![CDATA[BDSM]]></category>
+		<category><![CDATA[Devil on my back]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Guest posts]]></category>
+		<category><![CDATA[Safety]]></category>
+		<category><![CDATA[Scening]]></category>
+		<category><![CDATA[The view from up there]]></category>
+		<guid isPermaLink="false">/?p=4521</guid>
+
+					<description><![CDATA[Today&#8217;s guest blogger is Cowhideman, the patient and prolific leader of FetLife&#8217;s Novices &#38; Newbies group (login required). Crucially for us, he&#8217;s also brave enough to talk about the glory and horror of topspace. Enjoy! In a recent discussion thread, someone mentioned that their relatively novice Dom has suddenly shut down and very nearly stopped &#8230; <a href="/when-a-dom-drops-hard/" class="more-link">Continue reading <span class="screen-reader-text">When a Dom Drops Hard: Guest Post by Cowhideman</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/when-a-dom-drops-hard/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

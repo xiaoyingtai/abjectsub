@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Twenty Fourteen Child
+ Theme URI:    None yet
+ Description:  Twenty Fourteen Child Theme
+ Author:       Xiao Yingtai
+ Author URI:   
+ Template:     twentyfourteen
+ Version:      0.0.1
+ Tags:         light, dark, three-columns, left-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+@import url("/wp-content/themes/twentyfourteen/style.css");
+@import url("https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g") print;
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */

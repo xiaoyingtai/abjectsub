@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>david stein &#8211; The University of Abject Submission</title>
+	<atom:link href="/author/dstein/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>BDSM, books and missing links by Xiao Yingtai</description>
+	<lastBuildDate>Wed, 17 Jun 2015 03:01:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Consent Alone Is Not Enough: Guest&#160;Post by david&#160;stein</title>
+		<link>/consent-alone-is-not-enough/</link>
+					<comments>/consent-alone-is-not-enough/#comments</comments>
+		
+		<dc:creator><![CDATA[david stein]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2014 11:30:04 +0000</pubDate>
+				<category><![CDATA[Safety & Ethics]]></category>
+		<category><![CDATA[BDSM]]></category>
+		<category><![CDATA[Clichés]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Guest posts]]></category>
+		<category><![CDATA[Safety]]></category>
+		<guid isPermaLink="false">/?p=3970</guid>
+
+					<description><![CDATA[I asked david stein if this important essay has been posted anywhere outside FetLife, and he promptly gave me permission to repost it here.I don&#8217;t deserve the honour. This is the man who originated &#8220;Safe, Sane and Consensual&#8221; and much more.But let&#8217;s seize the chance to read the essay here and now, before I manage &#8230; <a href="/consent-alone-is-not-enough/" class="more-link">Continue reading <span class="screen-reader-text">Consent Alone Is Not Enough: Guest&#160;Post by david&#160;stein</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/consent-alone-is-not-enough/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First, Do No Harm: Guest&#160;Post&#160;by david&#160;stein</title>
+		<link>/david-stein-on-ethics/</link>
+		
+		<dc:creator><![CDATA[david stein]]></dc:creator>
+		<pubDate>Sun, 01 Jun 2014 11:30:56 +0000</pubDate>
+				<category><![CDATA[Safety & Ethics]]></category>
+		<category><![CDATA[BDSM]]></category>
+		<category><![CDATA[Clichés]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Guest posts]]></category>
+		<guid isPermaLink="false">/?p=3750</guid>
+
+					<description><![CDATA[Today&#8217;s guest blogger is david stein, the gay slave who originated the phrase &#8220;Safe, Sane and Consensual&#8221; way back in the 1980s.(Brief recess to retrieve our jaws from the floor.)More recently, he authored the incredibly valuable non-fiction resource Ask the Man Who Owns Him: The real lives of gay Masters and slaves and the embarrassingly hot &#8230; <a href="/david-stein-on-ethics/" class="more-link">Continue reading <span class="screen-reader-text">First, Do No Harm: Guest&#160;Post&#160;by david&#160;stein</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
